@@ -3,7 +3,7 @@ defmodule Potion do
   Documentation for `Potion`.
   """
 
-  @spec hello :: :world
+  @spec hello() :: :ok
   @doc """
   Hello world.
 
